@@ -28,6 +28,7 @@ https://github.com/LGLTeam
 
 
 Template Version 1.3
+
 Game Arch = Arm-v7a
 
 Contact Us 
