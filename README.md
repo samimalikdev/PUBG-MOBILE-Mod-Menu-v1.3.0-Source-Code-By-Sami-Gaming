@@ -2,7 +2,7 @@
 
 Some features are giving ban so you need to figure out by yourself which function is safe.
 
-Specially For For Pubg Mobile Korea Vietnam Taiwan
+Specially For Pubg Mobile Korea Vietnam Taiwan
 
 
 For Global User's
@@ -15,7 +15,6 @@ Or if you have Global offset then just minus (0x68) from global offset you will 
 
 This information is also for ESP developer's, because i seen many of developers having problems while making all versions ESP support.
 
-So this is just a small tip for all of you from YashGuru..
 
 
 
