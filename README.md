@@ -19,9 +19,11 @@ This information is also for ESP developer's, because i seen many of developers 
 
 
 Creator =  Sami Gaming
+
 https://youtube.com/c/SamiGamingYouTube
 
 Template Credit  = Team LGL
+
 https://github.com/LGLTeam
 
 
@@ -30,12 +32,22 @@ Template Version 1.3
 
 Game Arch = Arm-v7a
 
+Pubg Mobile Version 1.3.0 & 1.3.1
+
+Supported Kr,VN, Taiwan,Gl
+
+
 Contact Us 
 Twitter = @SamiMalik854
+
 Instagram = @iamsamimalik
+
 Snapchat = @samimalik264
+
 Telegram 
+
 https://t.me/SamiGaming
 
 Join Our Telegram Channel For More Updates
+
 https://t.me/SamiGaming
