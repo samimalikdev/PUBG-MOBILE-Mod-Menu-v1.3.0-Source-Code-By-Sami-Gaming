@@ -388,7 +388,7 @@ Java_uk_lgl_modmenu_FloatingModMenuService_Changes(JNIEnv *env, jobject obj,
                 hexPatches.BLUEFOG1.Modify();
             } else {
                 hexPatches.BLUEFOG.Restore();
-                hexPatches.BLUEFOG1.Modify();
+                hexPatches.BLUEFOG1.Restore();
             }
             break;
         case 14:
@@ -470,7 +470,7 @@ Java_uk_lgl_modmenu_FloatingModMenuService_Changes(JNIEnv *env, jobject obj,
                 hexPatches.JUMPCARS1.Modify();
             } else {
                 hexPatches.JUMPCARS.Restore();
-                hexPatches.JUMPCARS1.Modify();
+                hexPatches.JUMPCARS1.Restore();
             }
             break;
         case 24:
@@ -480,7 +480,7 @@ Java_uk_lgl_modmenu_FloatingModMenuService_Changes(JNIEnv *env, jobject obj,
                 hexPatches.HIGHDAMAGE1.Modify();
             } else {
                 hexPatches.HIGHDAMAGE.Restore();
-                hexPatches.HIGHDAMAGE1.Modify();
+                hexPatches.HIGHDAMAGE1.Restore();
             }
             break;
     }
